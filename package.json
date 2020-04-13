@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@cometchat-pro/chat": "^1.8.6",
+    "@cometchat-pro/chat": "^2.0.7",
     "react": "^16.9.0",
     "react-chatbox-component": "0.0.5",
     "react-dom": "^16.9.0",
